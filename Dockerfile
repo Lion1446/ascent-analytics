@@ -1,1 +1,1 @@
-grafana/grafana-oss:latest
+FROM grafana/grafana-oss:latest
