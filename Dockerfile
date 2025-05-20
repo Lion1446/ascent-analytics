@@ -1,0 +1,1 @@
+grafana/grafana-oss:latest
